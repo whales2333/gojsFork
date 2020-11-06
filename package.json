@@ -1,0 +1,26 @@
+{
+  "name": "gojs_fork",
+  "version": "2.1.13",
+  "author": "**",
+  "files": [
+    "package.json",
+    "index.html",
+    "README.md",
+    "api",
+    "assets",
+    "changelog.html",
+    "download.html",
+    "license.html",
+    "extensions",
+    "extensionsJSM",
+    "extensionsTS",
+    "intro",
+    "learn",
+    "projects",
+    "release",
+    "samples",
+    "samplesTS"
+  ],
+  "main": "release/go.js",
+  "typings":  "release/go.d.ts",
+}
